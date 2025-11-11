@@ -2,7 +2,7 @@ Hi everyone!
 I'm glad you're checking out my github :)
 I'm a school student from Germany interested in computer science.
 Currently, I'm working on small projects using Python and JavaScript,
-and I want to gain more experience with Linux, C, and C++
+and I want to gain more experience with Linux, C, C++, Arduino and Raspberry-Pi
 <!--
 **gorefield1/gorefield1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
